@@ -1,0 +1,249 @@
+<resources>
+    <string name="app_name">My Music App</string>
+    <string name="now_playing">Playing</string>
+    <string name="search">Search</string>
+    <string name="my_playlists">My playlists</string>
+    <string name="home">Home</string>
+    <string name="genres">Genres</string>
+    <string name="search_hint">Search song</string>
+    <string name="playing_hint">Select a song</string>
+
+    <string name="authors_battisti">Lucio Battisti</string>
+    <string name="authors_battiato">Franco Battiato</string>
+    <string name="authors_vasco">Vasco Rossi</string>
+    <string name="authors_rozalen">Rozalen</string>
+    <string name="authors_beatles">The Beatles</string>
+
+    <string-array name="songs_playlist_battisti">
+        <item>Dolce di giorno</item>
+        <item>Dieci ragazze</item>
+        <item>Fiori rosa, fiori di pesco</item>
+        <item>La collina dei ciliegi</item>
+        <item>Perché no</item>
+        <item>Anche per te</item>
+        <item>Una donna per amico</item>
+        <item>Sì, viaggiare</item>
+        <item>Pensieri e parole</item>
+        <item>Prendila così</item>
+        <item>Il tempo di morire</item>
+        <item>Amarsi un po\'</item>
+    </string-array>
+
+    <string-array name="hours_playlist_battisti">
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+    </string-array>
+
+    <string-array name="minutes_playlist_battisti">
+        <item>02</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>03</item>
+        <item>07</item>
+        <item>05</item>
+        <item>05</item>
+    </string-array>
+
+    <string-array name="seconds_playlist_battisti">
+        <item>39</item>
+        <item>56</item>
+        <item>12</item>
+        <item>55</item>
+        <item>45</item>
+        <item>32</item>
+        <item>18</item>
+        <item>05</item>
+        <item>51</item>
+        <item>47</item>
+        <item>38</item>
+        <item>03</item>
+    </string-array>
+
+    <string-array name="songs_playlist_battiato">
+        <item>Bandiera Bianca</item>
+        <item>Sentimiento nuevo</item>
+        <item>E ti vengo a cercare</item>
+        <item>Voglio vederti danzare</item>
+        <item>Centro di gravità permanente</item>
+    </string-array>
+
+    <string-array name="hours_playlist_battiato">
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+    </string-array>
+
+    <string-array name="minutes_playlist_battiato">
+        <item>05</item>
+        <item>04</item>
+        <item>03</item>
+        <item>03</item>
+        <item>04</item>
+    </string-array>
+
+    <string-array name="seconds_playlist_battiato">
+        <item>23</item>
+        <item>19</item>
+        <item>50</item>
+        <item>31</item>
+        <item>00</item>
+    </string-array>
+
+    <string-array name="songs_playlist_vasco">
+        <item>Sally</item>
+        <item>Vita spericolata</item>
+        <item>Un senso</item>
+        <item>Colpa di Alfredo</item>
+        <item>C\'è chi dice no</item>
+        <item>Domenica Lunatica</item>
+        <item>Siamo solo noi</item>
+        <item>Vivere</item>
+    </string-array>
+
+    <string-array name="hours_playlist_vasco">
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+    </string-array>
+
+    <string-array name="minutes_playlist_vasco">
+        <item>04</item>
+        <item>04</item>
+        <item>03</item>
+        <item>04</item>
+        <item>04</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+    </string-array>
+
+    <string-array name="seconds_playlist_vasco">
+        <item>46</item>
+        <item>42</item>
+        <item>51</item>
+        <item>58</item>
+        <item>31</item>
+        <item>54</item>
+        <item>04</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="songs_playlist_rozalen">
+        <item>80 veces</item>
+        <item>El hijo de la abuela</item>
+        <item>Berlin</item>
+        <item>La puerta violeta</item>
+        <item>Vuelves</item>
+        <item>Girasoles</item>
+        <item>Bajar del mundo</item>
+    </string-array>
+
+    <string-array name="hours_playlist_rozalen">
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+    </string-array>
+
+    <string-array name="minutes_playlist_rozalen">
+        <item>03</item>
+        <item>04</item>
+        <item>03</item>
+        <item>03</item>
+        <item>03</item>
+        <item>03</item>
+        <item>03</item>
+    </string-array>
+
+    <string-array name="seconds_playlist_rozalen">
+        <item>15</item>
+        <item>57</item>
+        <item>44</item>
+        <item>22</item>
+        <item>22</item>
+        <item>43</item>
+        <item>08</item>
+    </string-array>
+
+    <string-array name="songs_playlist_beatles">
+        <item>Hey Jude</item>
+        <item>Can\'t buy me love</item>
+        <item>Hello, goodbye</item>
+        <item>Love me do</item>
+        <item>Ticket to Ride</item>
+        <item>She loves you</item>
+        <item>All you need is love</item>
+        <item>Yellow submarine</item>
+        <item>Let it be</item>
+        <item>Something</item>
+        <item>Yesterday</item>
+    </string-array>
+
+    <string-array name="hours_playlist_beatles">
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+        <item>00</item>
+    </string-array>
+
+    <string-array name="minutes_playlist_beatles">
+        <item>07</item>
+        <item>02</item>
+        <item>03</item>
+        <item>02</item>
+        <item>03</item>
+        <item>02</item>
+        <item>03</item>
+        <item>02</item>
+        <item>04</item>
+        <item>03</item>
+        <item>02</item>
+    </string-array>
+
+    <string-array name="seconds_playlist_beatles">
+        <item>06</item>
+        <item>12</item>
+        <item>29</item>
+        <item>22</item>
+        <item>21</item>
+        <item>48</item>
+        <item>18</item>
+        <item>40</item>
+        <item>04</item>
+        <item>08</item>
+        <item>06</item>
+    </string-array>
+
+</resources>

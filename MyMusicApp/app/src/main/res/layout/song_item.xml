@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="@dimen/activity_padding">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            style="@style/PlaylistStyle"
+            tools:text="My playlist"/>
+
+        <TextView
+            android:id="@+id/author_text_view"
+            style="@style/SongsNumberStyle"
+            tools:text="10"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/duration_text_view"
+        style="@style/SongsDurationStyle"
+        android:layout_gravity="bottom"
+        tools:text="My playlist"/>
+
+</LinearLayout>

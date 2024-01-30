@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_padding">
+
+    <ImageView
+        android:id="@+id/cover_image_view"
+        android:layout_width="146dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/name_text_view"
+        style="@style/PlaylistStyle"
+        android:layout_height="wrap_content"
+        tools:text="Genre title"/>
+
+    <TextView
+        android:id="@+id/songs_text_view"
+        style="@style/SongsNumberStyle"
+        android:layout_height="wrap_content"
+        tools:text="10" />
+
+</LinearLayout>
